@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Riako.iml" filepath="$PROJECT_DIR$/Riako.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zhoukao2/Zhoukao2.iml" filepath="$PROJECT_DIR$/Zhoukao2/Zhoukao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my自定义滑动view/my自定义滑动view.iml" filepath="$PROJECT_DIR$/my自定义滑动view/my自定义滑动view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my购物车/my购物车.iml" filepath="$PROJECT_DIR$/my购物车/my购物车.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview+swiperefreshlayout/recyclerview+swiperefreshlayout.iml" filepath="$PROJECT_DIR$/recyclerview+swiperefreshlayout/recyclerview+swiperefreshlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijing0927/wuzijing0927.iml" filepath="$PROJECT_DIR$/wuzijing0927/wuzijing0927.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijing0928/wuzijing0928.iml" filepath="$PROJECT_DIR$/wuzijing0928/wuzijing0928.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijing0929/wuzijing0929.iml" filepath="$PROJECT_DIR$/wuzijing0929/wuzijing0929.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijing1011/wuzijing1011.iml" filepath="$PROJECT_DIR$/wuzijing1011/wuzijing1011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijing1012/wuzijing1012.iml" filepath="$PROJECT_DIR$/wuzijing1012/wuzijing1012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijing1013/wuzijing1013.iml" filepath="$PROJECT_DIR$/wuzijing1013/wuzijing1013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijing20170810/wuzijing20170810.iml" filepath="$PROJECT_DIR$/wuzijing20170810/wuzijing20170810.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xListView/xListView.iml" filepath="$PROJECT_DIR$/xListView/xListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zidingyiview/zidingyiview.iml" filepath="$PROJECT_DIR$/zidingyiview/zidingyiview.iml" />
+    </modules>
+  </component>
+</project>

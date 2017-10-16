@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="test.bwie.com.wuzijing0929.MainActivity">
+
+    <test.bwie.com.wuzijing0929.TopBar
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        app:left_btn_bg_color="@drawable/my_clolor_selected"
+        app:left_btn_text="返回"
+        app:left_btn_text_color="#000000"
+        app:left_btn_text_size="12dp"
+        app:right_btn_bg_color="@drawable/my_clolor_selected"
+        app:right_btn_text="更多"
+        app:right_btn_text_color="#000000"
+        app:right_btn_text_size="12dp"
+        app:title_bg_color="@color/colorAccent"
+        app:title_text="自定义主题"
+        app:title_text_color="#000000" />
+
+
+
+
+</LinearLayout>

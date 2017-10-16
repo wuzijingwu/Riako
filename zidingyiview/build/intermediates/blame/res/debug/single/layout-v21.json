@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\yuekao\\Riako\\zidingyiview\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\king\\adt-bundle-windows\\sdk\\.android\\build-cache\\826bb722229aced26fe5a6fd448554c4af205915\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\yuekao\\Riako\\zidingyiview\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\king\\adt-bundle-windows\\sdk\\.android\\build-cache\\826bb722229aced26fe5a6fd448554c4af205915\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\yuekao\\Riako\\zidingyiview\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\king\\adt-bundle-windows\\sdk\\.android\\build-cache\\826bb722229aced26fe5a6fd448554c4af205915\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\yuekao\\Riako\\zidingyiview\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\king\\adt-bundle-windows\\sdk\\.android\\build-cache\\826bb722229aced26fe5a6fd448554c4af205915\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

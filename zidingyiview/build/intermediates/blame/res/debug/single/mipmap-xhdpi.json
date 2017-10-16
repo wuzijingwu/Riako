@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\yuekao\\Riako\\zidingyiview\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\yuekao\\Riako\\zidingyiview\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\yuekao\\Riako\\zidingyiview\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\jiesuo_bg.png",
+        "source": "D:\\yuekao\\Riako\\zidingyiview\\src\\main\\res\\mipmap-xhdpi\\jiesuo_bg.png"
+    },
+    {
+        "merged": "D:\\yuekao\\Riako\\zidingyiview\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\jiesuo_button.png",
+        "source": "D:\\yuekao\\Riako\\zidingyiview\\src\\main\\res\\mipmap-xhdpi\\jiesuo_button.png"
+    }
+]
